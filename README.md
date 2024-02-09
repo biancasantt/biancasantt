@@ -1,5 +1,6 @@
-### Hi there 👋
+### Olá!👋
 
+Me chamo Bianca Santana, uma pesquisadora e estudante de Ciência da Computação com foco em Engenharia de Software e Inteligência Artificial, especialmente em Machine Learning.
 <!--
 **biancasantt/biancasantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
