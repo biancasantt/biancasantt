@@ -2,11 +2,11 @@
 
 ### Olá!👋🏻
 
-Sou a Bianca Santana, uma pesquisadora e estudante de Ciência da Computação.
+Sou a Bianca Santana, pesquisadora e estudante de Ciência da Computação.
 
-- 🏫 Estudante da UFRRJ 
-- 👩🏻‍💻 Machine learning, Data Analytics, Python...
-- 👩🏻‍🔬 Focada no avanço da pesquisa!
+- 🏫 Acadêmica pela UFRRJ 
+- 👩🏻‍💻 AI, Machine learning, Data Analytics...
+- 👩🏻‍🔬 Integrante ativa de uma fundação dedicada à pesquisa
 
 ### Skills
 
