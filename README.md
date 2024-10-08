@@ -6,7 +6,7 @@ Sou a Bianca Santana, pesquisadora e estudante de Ciência da Computação.
 
 - 🏫 Acadêmica pela UFRRJ 
 - 👩🏻‍💻 AI, Machine learning, Data Analytics...
-- 👩🏻‍🔬 Integrante ativa de uma fundação dedicada à pesquisa
+- 👩🏻‍🔬 Após minha experiência em pesquisa na FAPERJ, sigo entusiasmada e comprometida com a promoção da inovação tecnológica 
 
 ### Skills
 
